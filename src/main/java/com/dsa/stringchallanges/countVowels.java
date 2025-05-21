@@ -13,7 +13,7 @@ public class countVowels {
         }
 
 
-        return count;//To do
+        return count;
     }
 
     public static void main(String[] args) {

@@ -16,10 +16,7 @@ public class convertStringTitleCase {
 
         }
 
-      /*  for(String c:arr)
-        {
-            Character.toUpperCase(c.charAt(0));
-        }*/
+
 
         return  String.join(" ", arr);
     }
